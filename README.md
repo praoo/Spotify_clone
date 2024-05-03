@@ -1,1 +1,1 @@
-# Spotify_clone Link : praoo.github.io/Spotify_clone/
+Spotify clone Link : praoo.github.io/Spotify_clone/
